@@ -14,5 +14,5 @@ Thanks goes to these wonderful people
 <table>
   <tr>
     <td align="center"><a href="https://github.com/niteshbharti005101"><img src="https://avatars2.githubusercontent.com/u/52861833" width="100px;" alt=""/><br /><sub><b>Nitesh Bharti</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/khushboo-sharma14"><img src="https://avatars.githubusercontent.com/u/56184960?v=4" width="100px;" alt=""/><br /><sub><b>Khushboo Sharma</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/khushboo-sharma14"><img src="https://avatars.githubusercontent.com/u/87904604?s=400&u=dfa43269bea739197d1630d6a02c73904451117c&v=4" width="100px;" alt=""/><br /><sub><b>Khushboo Sharma</b></sub></a><br /></td>
 </table>
